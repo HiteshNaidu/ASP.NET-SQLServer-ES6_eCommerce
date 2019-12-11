@@ -1,0 +1,14 @@
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\bin\Debug\netcoreapp2.2\eCommerceHMA_CORE.deps.json
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\bin\Debug\netcoreapp2.2\eCommerceHMA_CORE.runtimeconfig.json
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\bin\Debug\netcoreapp2.2\eCommerceHMA_CORE.runtimeconfig.dev.json
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\bin\Debug\netcoreapp2.2\eCommerceHMA_CORE.dll
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\bin\Debug\netcoreapp2.2\eCommerceHMA_CORE.pdb
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.RazorAssemblyInfo.cache
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.RazorAssemblyInfo.cs
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.AssemblyInfoInputs.cache
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.AssemblyInfo.cs
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.RazorTargetAssemblyInfo.cache
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.dll
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.pdb
+C:\Users\Hitesh\source\repos\eCommerceHMA_CORE\eCommerceHMA_CORE\obj\Debug\netcoreapp2.2\eCommerceHMA_CORE.csprojAssemblyReference.cache
